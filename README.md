@@ -18,3 +18,5 @@ In mySQLworkbench with password being the password you would like. We run this a
 Step5: In a terminal navigate to the folder with the javascript files and type npm install
 
 Step6: Type node index.js into the terminal and the program should start
+
+![alt text](https://raw.githubusercontent.com/jwu000/playlistCLI/master/uml%20diagram.png)
