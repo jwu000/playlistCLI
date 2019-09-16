@@ -1,5 +1,9 @@
 # playlistCLI
 
+A command line interface tool to interact with a playlist sql database. Can create playlists, modify playlists(add songs, delete songs), view playlists, delete playlists, search up songs, get song recommendations.
+
+Created by Peter Benoit, Rayna Levinson, Javis Wu
+
 Step1: install node.js
 Download the appropriate installer at https://nodejs.org/en/download/
 
